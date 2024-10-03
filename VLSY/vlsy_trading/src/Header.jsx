@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import "./styles.css"; // Assuming your styles are in styles.css
+import "./styles.css"; 
 
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -37,7 +37,7 @@ function Header() {
         </Link>
       </nav>
 
-      {/* Consultation Button (Optional for Mobile View) */}
+      {/* Consultation Button */}
       <button className="consultation-btn"><Link to="/contact" className="btn-link">Consultation</Link></button>
     </header>
   );
