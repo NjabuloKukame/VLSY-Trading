@@ -15,10 +15,10 @@ function Footer() {
           <p>076 182 9295</p>
           <br />
           <p>Alternative Cellphone Number</p>
-          <p>070 904 7826</p>
+          <p>060 904 7826</p>
           <br />
           <p>Email</p>
-          <p>Sbmlandu@gmail.com</p>
+          <p>vlsytrading@gmail.com</p>
         </div>
           
       </div>
