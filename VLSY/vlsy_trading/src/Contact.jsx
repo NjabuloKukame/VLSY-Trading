@@ -95,7 +95,7 @@ function Contact() {
                   <div className="form-field">
                     <textarea
                       required=""
-                      placeholder="Message"
+                      placeholder="Message To Get A Quote"
                       cols="30"
                       rows="3"
                       className="input-field"
